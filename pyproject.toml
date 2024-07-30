@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 prompt = "^0.4.1"
 psycopg2-binary = "^2.9.9"
+notify2 = "^0.3.1"
 
 
 [build-system]
