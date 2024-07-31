@@ -77,6 +77,9 @@ def push(title, message):
         return
     os.system(command)
 
+def time_chek(finished):
+    pass
+
 
 if __name__ == '__main__':
     main()
